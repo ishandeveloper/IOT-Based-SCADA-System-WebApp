@@ -1,8 +1,2 @@
-# PHP
-*.php text
-*.phpt text
-*.phtml text
-*.twig text
-.htaccess text
-.ht text
-*.phar binary
+* linguist-vendored
+*.php linguist-vendored=false
